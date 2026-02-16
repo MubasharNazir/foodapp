@@ -10,8 +10,7 @@ export default function Home() {
             Food App
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400">
-            Discover and order delicious food. A Progressive Web App that works
-            offline and installs on your device.
+            This is the app for the reduce the food waste and personalize customer experience
           </p>
         </div>
         <p className="text-xl font-medium text-zinc-500 dark:text-zinc-400">
