@@ -14,24 +14,9 @@ export default function Home() {
             offline and installs on your device.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-orange-500 px-6 text-white transition-colors hover:bg-orange-600 md:w-auto md:px-8"
-            href="https://vercel.com/new"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Deploy to Vercel
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-zinc-300 px-6 transition-colors hover:bg-zinc-100 dark:border-zinc-600 dark:hover:bg-zinc-800 md:w-auto md:px-8"
-            href="https://nextjs.org/docs"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+        <p className="text-xl font-medium text-zinc-500 dark:text-zinc-400">
+          Coming soon
+        </p>
       </main>
     </div>
   );
