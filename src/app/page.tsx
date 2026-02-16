@@ -10,7 +10,7 @@ export default function Home() {
             Food App
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400">
-            This is the app for the reduce the food waste and personalize customer experience
+          This app helps reduce food waste while delivering a personalized experience for customers.
           </p>
         </div>
         <p className="text-xl font-medium text-zinc-500 dark:text-zinc-400">
